@@ -17,6 +17,9 @@
       },
       "api": {
         "fullstackawsapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
